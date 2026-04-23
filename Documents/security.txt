@@ -1,0 +1,2 @@
+All employees must enable multi-factor authentication
+to access company systems.
